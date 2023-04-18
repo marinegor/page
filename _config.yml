@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank
+title: blank # comment
 first_name: Egor
 last_name: Name
 email: marinegor@fastmail.com
